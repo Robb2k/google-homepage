@@ -1,2 +1,2 @@
-# the_odin_project
+# google-homepage
 TOP google homepage project
